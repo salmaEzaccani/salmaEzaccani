@@ -105,15 +105,34 @@ to develop intelligent solutions that address real-world challenges.
   </a> 
 
 
-
-
-
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="PyTorch" width="70" height="70"/>
 </a>
 
 </p>
 
+
+---
+
+<!-- Section statistiques -->
+<h2 align="center">📊 My GitHub Stats</h2>
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=salmaEzaccani&show_icons=true&theme=algolia" alt="salmaEzaccani's GitHub Stats" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmaEzaccani&layout=compact&theme=algolia" alt="Top Languages" />
+</p>
+
+---
+
+<!-- Section connect -->
+<h2 align="center">🌐 Let's Connect</h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/salma-ezaccani-280863232/https://www.linkedin.com/in/salma-ezaccani-280863232/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/salmaEzaccani">
+    <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+</p>
 
 <h1 dir="auto">
     <a id="user-content-️random-dev-quote" class="anchor" aria-hidden="true" href="#️random-dev-quote">
